@@ -3,7 +3,8 @@
 #This program takes 3 input numbers from the user and displays them as smaller to larger numbers in the output.and can also recognize equal numbers.
 #NOTE:This program is written using condition only. To better understand the "IF" command in Python
 print ()
-print ("enter '3' input number:")
+print ("Enter '3' Numbers As Desired.. ")
+print ()
 num1 = int(input("input 1: "))
 num2 = int(input("input 2: "))
 num3 = int(input("input 3: "))
